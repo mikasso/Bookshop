@@ -1,0 +1,1 @@
+start java -cp .\db-derby-10.13.1.1-bin\lib\derbyclient.jar;.\db-derby-10.13.1.1-bin\lib\derbytools.jar org.apache.derby.tools.ij .\derby_start\ij_connect.txt

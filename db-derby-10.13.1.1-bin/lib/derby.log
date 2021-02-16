@@ -1,0 +1,14 @@
+Tue Feb 16 16:47:37 CET 2021 : Serwer sieciowy Apache Derby - 10.13.1.1 - (1765088) uruchomiony i gotowy do zaakceptowania po³¹czeñ na porcie 1527 w {3} 
+----------------------------------------------------------------
+Tue Feb 16 16:50:47 CET 2021:
+ Uruchamianie wersji The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088) systemu Derby: instancja a816c00e-0177-ab86-795c-ffffc020b8cf
+w katalogu bazy danych C:\Users\Mikas\Desktop\bookshop\db-derby-10.13.1.1-bin\lib\pt_lab sun.misc.Launcher$AppClassLoader@55f96302 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_201-b09
+user.dir=C:\Users\Mikas\Desktop\bookshop\db-derby-10.13.1.1-bin\lib
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\Mikas\Desktop\bookshop\db-derby-10.13.1.1-bin\lib
+Uruchomiono program ³aduj¹cy klasê bazy danych - derby.database.classpath=''

@@ -1,0 +1,1 @@
+start java -jar .\db-derby-10.13.1.1-bin\lib\derbyrun.jar server start
